@@ -1,5 +1,5 @@
 # QuineMcCluskeyAlgorithm
-Java library that implements the Quine McCluskey Algorithm for finding prime implicants of a Boolean function
+Given a sum of terms, this library minimizes the terms using Quine McCluskey (QM) algorithm.
 
 # Example
 
